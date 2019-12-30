@@ -1,8 +1,8 @@
 ---
 template: page
 title: About me
-slug: about
-draft: true
+slug: /pages/about
+draft: false
 ---
 Hiya. I'm Karen. 
 
