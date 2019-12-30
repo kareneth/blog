@@ -1,7 +1,7 @@
 ---
 template: page
 title: About me
-slug: /
+slug: about
 draft: true
 ---
 Hiya. I'm Karen. 
