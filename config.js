@@ -7,7 +7,7 @@ module.exports = {
   subtitle: 'tee hee',
   copyright: '© 2019 All rights reserved.',
   disqusShortname: '',
-  postsPerPage: 4,
+  postsPerPage: 5,
   // googleAnalyticsId: 'UA-73379983-2',
   useKatex: false,
   menu: [
@@ -26,7 +26,7 @@ module.exports = {
   ],
   author: {
     name: 'Karen Shih',
-    photo: '/photo.jpg',
+    photo: '/karen.jpg',
     bio: 'this is a bio bio',
     contacts: {
       email: '',
