@@ -2,7 +2,7 @@
 template: post
 title: Using The Mind Card Game For Team Building
 slug: using-the-mind-card-game-for-team-building
-draft: true
+draft: false
 date: 2020-01-01T05:26:53.730Z
 description: >-
   While The Mind didn't win the Spiel des Jahres in 2018 (yeah, Azul was
