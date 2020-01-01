@@ -12,7 +12,8 @@ tags:
   - team
   - change
   - project management
+  - agile
 ---
-![https://twitter.com/berndschiffer/status/992045994941464578](/media/2018-05-07_team_leaving_joining.png "Bernd Schiffer")
+![https://twitter.com/berndschiffer/status/992045994941464578](/media/2018-05-07-bernd-schiffer-team.png "Bernd Schiffer, https://twitter.com/berndschiffer/status/992045994941464578")
 
 <https://twitter.com/berndschiffer/status/992045994941464578>
