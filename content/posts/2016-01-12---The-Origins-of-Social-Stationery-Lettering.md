@@ -2,7 +2,7 @@
 template: post
 title: Becoming by Michelle Obama
 slug: becoming-by-michelle-obama
-draft: true
+draft: false
 date: '2016-12-01T22:40:32.169Z'
 description: >-
   Becoming is Michelle Obama’s memoir, published in 2018. Here's a list of my
