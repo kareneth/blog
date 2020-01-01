@@ -10,9 +10,10 @@ description: >-
   counterproductive, it was ultimately harmful.
 category: Project Management
 tags:
-  - note
+  - meeting notes
   - meeting
   - self improvement
+  - project management
 ---
 I used to think taking meeting notes was all about copying everything verbatim. It took me a while to realize that not only was this counterproductive, it was ultimately harmful. For one, good meetings (the kind where people should be meeting in real time versus over an email) usually involves discussion. When you copy without listening, you might not get the latest decision. Furthermore, no one has time to look over an essay after having already spent an hour in the meeting.
 
