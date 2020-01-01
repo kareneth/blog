@@ -4,7 +4,7 @@ title: The Project Manager's Role in Software Development
 slug: the-project-managers-role-in-software-development
 draft: false
 date: 2015-08-17T22:40:00.000Z
-description: 'I really enjoyed this article from Mary Lotz, published in Segue Technologies.'
+description: 'I enjoyed this article from Mary Lotz, published in Segue Technologies.'
 category: Project Management
 tags:
   - segue technologies
