@@ -24,8 +24,10 @@
 
       & blockquote {
         font-style: italic;
-        text-align: center;
         margin-top: 0;
+        padding: 0 1em;
+        color: #6a737d;
+        border-left: .25em solid #dfe2e5;
         @include padding(1, 0);
 
         & p {
