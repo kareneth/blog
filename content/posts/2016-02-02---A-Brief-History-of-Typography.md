@@ -1,54 +1,33 @@
 ---
-title: "A Brief History of Typography"
-date: "2016-02-02T22:40:32.169Z"
-template: "post"
+template: post
+title: Now That's What I Call a Meeting Note!
+slug: now-thats-what-i-call-a-meeting-note
 draft: false
-slug: "a-brief-history-of-typography"
-category: "Design Inspiration"
+date: 2015-08-14T21:40:00.000Z
+description: >-
+  I used to think taking meeting notes was all about copying everything
+  verbatim. It took me a while to realize that not only was this
+  counterproductive, it was ultimately harmful.
+category: Project Management
 tags:
-  - "Linotype"
-  - "Monotype"
-  - "History of typography"
-  - "Helvetica"
-description: "Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat."
-socialImage: "/media/image-0.jpg"
+  - note
+  - meeting
+  - self improvement
 ---
+I used to think taking meeting notes was all about copying everything verbatim. It took me a while to realize that not only was this counterproductive, it was ultimately harmful. For one, good meetings (the kind where people should be meeting in real time versus over an email) usually involves discussion. When you copy without listening, you might not get the latest decision. Furthermore, no one has time to look over an essay after having already spent an hour in the meeting.
 
-**Pellentesque habitant morbi tristique** senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. *Aenean ultricies mi vitae est.* Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. 
 
-Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui.  [Donec non enim](#) in turpis pulvinar facilisis.
 
-![Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus](/media/image-0.jpg)
+From my experience of taking notes both for school and work, I employ a few strategies that have really taken my notes to the next level.
 
-## Header Level 2
+**Attendees**- I’ve had the unfortunate privilege of attending several meetings with the same agenda but with different people. Inevitably, you get asked, “When was this decision made? Why wasn’t I there? I didn’t agree to this!” It’s important to know who was there to make sure they played a role in that decision, especially if you need proof.
 
-+ Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-+ Aliquam tincidunt mauris eu risus.
+**Date Changes/Project Changes/Obstacles** - This single-handedly transformed my project statuses. I learned the hard way that executives didn’t always read my mountain of notes afterwards. My CTO told me he really cared about 3 things: (1) date changes, (2) project changes, (3) and any obstacles that (s)he could help with.
 
-Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. 
+**Useful Links** - This may lead to the project wiki, epic, calendar, or even the schedule. Regardless, this is where I download my brain and especially if people don’t utilize bookmarks, I don’t want anybody to have an excuse for not knowing where to look. Not to mention the added benefit of saving them a trip from asking me the same question. Don’t get me wrong, I love to help people, but sometimes you have to help yourself first.
 
-<figure>
-	<blockquote>
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna. Cras in mi at felis aliquet congue. Ut a est eget ligula molestie gravida. Curabitur massa. Donec eleifend, libero at sagittis mollis, tellus est malesuada tellus, at luctus turpis elit sit amet quam. Vivamus pretium ornare est.</p>
-		<footer>
-			<cite>— Aliquam tincidunt mauris eu risus.</cite>
-		</footer>
-	</blockquote>
-</figure>
+**Action Items**, and if possible, with the owner and date. Responsible attendees will take notes simultaneously of what they need to do, but as a project manager you shouldn’t rely on that. The worst is if there’s 2-3 owners, and they all thought somebody else was going to handle it. Or if they were waiting on somebody else, but nobody knew about it. It’s little things like this that impede progress. To take it a step further, I like to mark out people’s names in red.
 
-### Header Level 3
+**Calendar/Schedule** In the same vein as above, I love adding pictures and colors to my notes. I find tables useful for showing next steps, and calendars let you see how far (or close!) away something is, especially if you mark it with a big TODAY and DUE DATE on it.
 
-+ Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-+ Aliquam tincidunt mauris eu risus.
-
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra.
-
-```css
-#header h1 a {
-  display: block;
-  width: 300px;
-  height: 80px;
-}
-```
-
-Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.
+**Lastly, I always ask myself, “Who are these notes for?”.**Once I define that, I’ll ask that person what I can do to make my notes better. Because even if I think I did a fantastic job, if at the end the people don’t read it, then I haven’t done my job. You’ll be surprised at the little things that people will mention that make all the difference. Perspective is good.
