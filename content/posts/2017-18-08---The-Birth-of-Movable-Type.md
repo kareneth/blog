@@ -11,6 +11,7 @@ tags:
   - working agreement
   - team
   - change
+  - project management
 ---
 ![https://twitter.com/berndschiffer/status/992045994941464578](/media/2018-05-07_team_leaving_joining.png "Bernd Schiffer")
 
