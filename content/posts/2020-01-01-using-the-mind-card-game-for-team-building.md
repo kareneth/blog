@@ -6,9 +6,8 @@ draft: false
 date: 2020-01-01T05:26:53.730Z
 description: >-
   While The Mind didn't win the Spiel des Jahres in 2018 (yeah, Azul was
-  better), I still really like playing in with family and friends. Probably more
-  often. But I think this would work out really well at work as a team building
-  game. 
+  better), I still really like playing in with family and friends. I think this
+  would work out really well at work as a team building game. 
 category: Project Management
 tags:
   - the mind
