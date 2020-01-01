@@ -6,9 +6,8 @@ draft: false
 date: 2020-01-01T05:26:53.730Z
 description: >-
   While The Mind didn't win the Spiel des Jahres in 2018 (Azul deservingly won),
-  I actually play this more often with family due to its cross-cultural,
-  family-friendly, non-snobbiness aspects. I also think it'd be great for team
-  building at work.
+  I actually play this more often with family due to its cross-cultural and
+  family-friendliness. I also think it'd be great for team building at work.
 category: Project Management
 tags:
   - the mind
