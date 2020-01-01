@@ -2,7 +2,7 @@
 template: post
 title: Now That's What I Call a Meeting Note!
 slug: now-thats-what-i-call-a-meeting-note
-draft: true
+draft: false
 date: 2015-08-14T21:40:00.000Z
 description: >-
   I used to think taking meeting notes was all about copying everything
