@@ -37,4 +37,4 @@ An added benefit that I was not expecting was being able to play this game acros
 
 ![默契mo4qi4, tacit understanding](/media/2020-01-01_mo4qi4.png "默契 (mo4qi4) means a well coordinated group that has achieved mutual understanding. That makes sense since 默 (mo4) means tacit and 契 (qi4) means agreement.")
 
-All in all, for $15, I love how this simple game was playable across so many different levels. It highlights how even a random group of people, young or old, American or Chinese, can form a team. And best of all, nothing can really compare to the bond and immense satisfaction you get when you start thinking, playing, and succeeding as a team.
+All in all, for $15, I love how this simple game was so playable across so many perceived barriers (age, language, even interest in games). It highlights how even a random group of people, young or old, American or Chinese, can form a team. And best of all, nothing can really compare to the bond and immense satisfaction you get when you start thinking, playing, and succeeding as a team.
