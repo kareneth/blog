@@ -2,7 +2,7 @@
 template: post
 title: Insecurity
 slug: insecurity
-draft: true
+draft: false
 date: 2019-04-02T01:36:00.000Z
 description: >-
   We all can feel insecure sometimes. Karen Cohen flips this disadvantage on its
