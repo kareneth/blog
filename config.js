@@ -27,7 +27,7 @@ module.exports = {
   author: {
     name: 'Karen Shih',
     photo: '/karen.jpg',
-    bio: 'Hiya! I’m a project manager based out of Atlanta whose heart belongs in Taiwan.',
+    bio: 'I’m a project manager based in Atlanta, although my heart belongs in Taiwan.',
     contacts: {
       email: '',
       facebook: '',
