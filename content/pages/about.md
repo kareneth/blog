@@ -1,7 +1,7 @@
 ---
 template: page
 title: About me
-slug: about-me
+slug: about
 draft: false
 ---
 Hiya! Oh, where to start. I enjoy learning, organizing, eating, playing games, and traveling. I’ll dabble in most anything, and have the half-finished projects to prove it.
