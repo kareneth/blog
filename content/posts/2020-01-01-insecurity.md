@@ -4,9 +4,7 @@ title: Insecurity
 slug: insecurity
 draft: false
 date: 2019-04-02T01:36:00.000Z
-description: >-
-  We all can feel insecure sometimes. Karen Cohen flips this disadvantage on its
-  head.
+description: I enjoyed this tweet from Karen Cohen.
 category: Project Management
 tags:
   - insecurity
