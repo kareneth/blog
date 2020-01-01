@@ -29,7 +29,7 @@ Since you can't talk, you learn to watch for the slightest body movement. The ey
 
 The next level adds another card. So in the example above, Dan and I each had 5 cards in Level 5, but when we moved to Level 6 we each had 6 cards for a total of 12 cards together. 
 
-While we shuffled the cards, we inevitably started talking, strategizing, and sometimes apologizing. "*Why didn't you go faster?!*" slowly changed to "*Sorry, I should've waited when I saw you start to put your card down.*"  Blaming each other doesn't really work because, like in real life, what do you really win if you're right? Right or wrong, if you fail as a team, you fail individually. And inevitably, you start making tiny acknowledgements and agreements at the start of each new level. 
+While we shuffled the cards, we inevitably started talking, strategizing, and sometimes apologizing. "*Why didn't you go faster?!*" slowly changed to "*Sorry, I should've waited when I saw you start to put your card down.*"  Blaming each other doesn't really work because, like in real life, what do you really win if you're right? Right or wrong, if you fail as a team, you fail individually. And inevitably, you start making tiny acknowledgements and agreements with each other. 
 
 When we played in a larger group, I couldn't help but be reminded of an agile retrospective. After all, the point is to get the team to reflect on what they should stop, start, or continue doing. And this repeats every iteration. It takes a few levels, but eventually the team gets to a good rhythm and the "stop doings" become "continue doing".
 
