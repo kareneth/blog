@@ -13,6 +13,7 @@ tags:
   - quotes
   - mantra
   - feminist
+  - book review
 ---
 [Becoming](https://becomingmichelleobama.com/) is Michelle Obama’s memoir, published in 2018. Per Wikipedia,
 
