@@ -56,6 +56,9 @@
       max-width: 100%;
     }
 
+    & blockquote {
+      margin: 0 5%;
+    }
   }
 
 }
@@ -86,4 +89,22 @@
 
   }
 
+}
+
+@include breakpoint-sm {
+ .content__body blockquote {
+   margin: 0 15%;
+ }
+}
+
+@include breakpoint-md {
+ .content__body blockquote {
+   margin: 0 20%;
+ }
+}
+
+@include breakpoint-lg {
+ .content__body blockquote {
+   margin: 0 20%;
+ }
 }
