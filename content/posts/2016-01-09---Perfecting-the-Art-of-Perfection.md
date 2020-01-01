@@ -2,7 +2,7 @@
 template: post
 title: 7 Must-Have Project Management Skills for IT Pros
 slug: 7-must-have-project-management-skills-for-it-pros
-draft: true
+draft: false
 date: 2015-08-15T23:46:00.000Z
 description: 'I really enjoyed this article from Jennifer Lonoff Schiff, published in CIO.'
 category: Project Management
