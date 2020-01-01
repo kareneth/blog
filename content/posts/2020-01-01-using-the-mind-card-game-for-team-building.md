@@ -17,6 +17,7 @@ tags:
   - retrospective
   - cross cultural
   - chinese
+  - project management
 ---
 The Mind is a simple card game that is surprisingly addictive considering it only takes 5 minutes to explain. Gameplay lasts anywhere from a few minutes to a half hour. You can read the [full rules here](https://boardgamegeek.com/boardgame/244992/mind), but it's essentially the card version of the ice breaker where you order yourselves in a line from youngest to oldest. And remember, no talking. 
 
