@@ -22,6 +22,10 @@ module.exports = {
     {
       label: 'Contact me',
       path: '/pages/contacts'
+    },
+    {
+      label: 'Subscribe',
+      path: '/pages/subscribe'
     }
   ],
   author: {
@@ -43,7 +47,7 @@ module.exports = {
       weibo: '',
       codepen: '',
       youtube: '',
-      goodreads: '1240186-karen',  
+      goodreads: '1240186-karen',
       yelp: 'kareneth',
     }
   }
