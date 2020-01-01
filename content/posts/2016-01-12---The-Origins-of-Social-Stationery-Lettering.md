@@ -2,9 +2,11 @@
 template: post
 title: Becoming by Michelle Obama
 slug: becoming-by-michelle-obama
-draft: false
+draft: true
 date: '2016-12-01T22:40:32.169Z'
-description: 'Becoming is Michelle Obama’s memoir, published in 2018. '
+description: >-
+  Becoming is Michelle Obama’s memoir, published in 2018. Here's a list of my
+  favorite quotes. 
 category: Book Review
 tags:
   - michelle obama
@@ -14,7 +16,7 @@ tags:
 ---
 [Becoming](https://becomingmichelleobama.com/) is Michelle Obama’s memoir, published in 2018. Per Wikipedia,
 
-*“The book’s 24 chapters (plus a preface and epilogue) are divided into three sections: Becoming Me, Becoming Us, and Becoming More. Become Me traces Obama’s early life growing up on the South Side[](https://t.umblr.com/redirect?z=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSouth_Side%2C_Chicago&t=NTA1M2ZlYTdhMTU2NzVmMGYwM2YyNWQ5ZGFmNTJhOWI3ZDJiYzkzZSwyTm51dnZwNg%3D%3D&b=t%3Ada6eij_ZAnVbbTPXeKJrjw&p=https%3A%2F%2Fpmokaren.tumblr.com%2Fpost%2F183834086353%2Fbook-review-becoming-by-michelle-obama&m=1 "South Side, Chicago") of Chicago, through her education at Princeton University and Harvard Law School[](https://t.umblr.com/redirect?z=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPrinceton_University&t=Y2ZiZGQ5MzlmM2UzYmJkYTVhODhjYzI5NTQ4OGRhNTNiY2VhZDJmNSwyTm51dnZwNg%3D%3D&b=t%3Ada6eij_ZAnVbbTPXeKJrjw&p=https%3A%2F%2Fpmokaren.tumblr.com%2Fpost%2F183834086353%2Fbook-review-becoming-by-michelle-obama&m=1 "Princeton University"), to her early career as a lawyer at the law firm Sidley Austin, where she met Barack Obama. Becoming Us departs from the beginning of their romantic relationship and follows their marriage, the beginning of his political career in the Illinois State Senate. The section ends with election night in 2008 when Barack Obama was elected President of the United States and Becoming More describes their life as First Family.[](https://t.umblr.com/redirect?z=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFirst_Family&t=YzUwMzJhYjlmZjMxNWJjNmUwZWQxNmUzYTk1ZDY4OGQ3MTJiYzc1ZSwyTm51dnZwNg%3D%3D&b=t%3Ada6eij_ZAnVbbTPXeKJrjw&p=https%3A%2F%2Fpmokaren.tumblr.com%2Fpost%2F183834086353%2Fbook-review-becoming-by-michelle-obama&m=1 "First Family")“*
+*“The book’s 24 chapters (plus a preface and epilogue) are divided into three sections: Becoming Me, Becoming Us, and Becoming More. Become Me traces Obama’s early life growing up on the South Side*[](https://t.umblr.com/redirect?z=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSouth_Side%2C_Chicago&t=NTA1M2ZlYTdhMTU2NzVmMGYwM2YyNWQ5ZGFmNTJhOWI3ZDJiYzkzZSwyTm51dnZwNg%3D%3D&b=t%3Ada6eij_ZAnVbbTPXeKJrjw&p=https%3A%2F%2Fpmokaren.tumblr.com%2Fpost%2F183834086353%2Fbook-review-becoming-by-michelle-obama&m=1 "South Side, Chicago") *of Chicago, through her education at Princeton University and Harvard Law School*[](https://t.umblr.com/redirect?z=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPrinceton_University&t=Y2ZiZGQ5MzlmM2UzYmJkYTVhODhjYzI5NTQ4OGRhNTNiY2VhZDJmNSwyTm51dnZwNg%3D%3D&b=t%3Ada6eij_ZAnVbbTPXeKJrjw&p=https%3A%2F%2Fpmokaren.tumblr.com%2Fpost%2F183834086353%2Fbook-review-becoming-by-michelle-obama&m=1 "Princeton University")*, to her early career as a lawyer at the law firm Sidley Austin, where she met Barack Obama. Becoming Us departs from the beginning of their romantic relationship and follows their marriage, the beginning of his political career in the Illinois State Senate. The section ends with election night in 2008 when Barack Obama was elected President of the United States and Becoming More describes their life as First Family.*[](https://t.umblr.com/redirect?z=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFirst_Family&t=YzUwMzJhYjlmZjMxNWJjNmUwZWQxNmUzYTk1ZDY4OGQ3MTJiYzc1ZSwyTm51dnZwNg%3D%3D&b=t%3Ada6eij_ZAnVbbTPXeKJrjw&p=https%3A%2F%2Fpmokaren.tumblr.com%2Fpost%2F183834086353%2Fbook-review-becoming-by-michelle-obama&m=1 "First Family")*“*
 
 - - -
 
