@@ -1,18 +1,18 @@
 'use strict';
 
 module.exports = {
-  url: 'https://karensbetterthan.danielgempesaw.com',
+  url: 'https://karengshih.com',
   pathPrefix: '/',
-  title: 'Karen\'s better than Dan!',
-  subtitle: 'tee hee',
-  copyright: '© 2019 All rights reserved.',
+  title: 'Karen Shih',
+  subtitle: 'Karen loves Dan!',
+  copyright: '© 2020 All rights reserved.',
   disqusShortname: '',
   postsPerPage: 5,
-  // googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: 'UA-155139827-1',
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
+      label: 'Posts',
       path: '/'
     },
     {
@@ -27,22 +27,24 @@ module.exports = {
   author: {
     name: 'Karen Shih',
     photo: '/karen.jpg',
-    bio: 'this is a bio bio',
+    bio: 'Hiya! I’m a project manager based out of Atlanta whose heart belongs in Taiwan.',
     contacts: {
       email: '',
-      facebook: '#',
+      facebook: '',
       telegram: '',
       twitter: '',
-      github: '#',
+      github: '',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: 'karengshih',
+      instagram: '',
       line: '',
       gitlab: '',
       weibo: '',
       codepen: '',
-      youtube: ''
+      youtube: '',
+      goodreads: '1240186-karen',  
+      yelp: 'kareneth',
     }
   }
 };
