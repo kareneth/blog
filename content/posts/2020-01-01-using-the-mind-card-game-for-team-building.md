@@ -2,12 +2,12 @@
 template: post
 title: Using The Mind Card Game For Team Building
 slug: using-the-mind-card-game-for-team-building
-draft: false
+draft: true
 date: 2020-01-01T04:26:00.000Z
 description: >-
   While The Mind didn't win the Spiel des Jahres in 2018 (Azul deservingly won),
   I actually play this more often with family due to its cross-cultural and
-  family-friendliness. I also think it'd be great for team building at work.
+  family-friendly appeal. I also think it'd be great for team building at work.
 category: Project Management
 tags:
   - the mind
@@ -23,7 +23,7 @@ The Mind is a simple card game that's surprisingly addictive considering it only
 
 ![the mind card game](/media/2020-01-01_mind.jpg "Dan and I successfully passing Level 5 with cards 4, 10, 14, 45, 47, 54, 62, 69, 70, 71.")
 
-Here's Dan and I successfully passing Level 5 with cards 4, 10, 14, 45, 47, 54, 62, 69, 70, 71. There's several ways this co-operative game helps you learn to work together. 
+Here's Dan and I successfully passing Level 5 with both of us placing, in the correct order, cards numbered 4, 10, 14, 45, 47, 54, 62, 69, 70, 71. There's several ways this co-operative game helps you learn to work together. 
 
 Since you can't talk, you learn to watch for the slightest body movement. The eyes are a given, but then you start noticing somebody hedging. You can't ignore it, after all, that card might be lower than yours, so then you establish eye contact and feed off each others energy. You learn to weigh your own decision against that of the team. Together, sink or swim. I see this naturally building empathy among coworkers. Did you notice them begin to speak but then stop because they were interrupted? Our body language shows what we truly think.     
 
