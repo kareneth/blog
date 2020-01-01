@@ -17,7 +17,7 @@ tags:
   - Karen Cohen
   - Ruined by Design
 ---
-![Karen Cohen](/media/2019-03-28_insecurity.png)
+![Karen Cohen](/media/2019-04-01-karen-cohen-insecurity.png)
 
 https://twitter.com/karen_meep/status/1111123109510344706
 
