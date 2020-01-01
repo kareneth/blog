@@ -31,8 +31,4 @@ They also paired each skill with an anecdote that really drove the point home. F
 
 > "Project managers need to be able to communicate status changes, good news and bad news to all levels of staff across different departments. They also need to be able to distinguish who needs to know what, when they need to know it and how that information will be delivered." - Nandi Hayes
 
-\> “Project managers need to be able to communicate status changes, good news and bad news to all levels of staff across different departments. They also need to be able to distinguish who needs to know what, when they need to know it and how that information will be delivered.” - Nandi Hayes
-
-> “Project managers need to be able to communicate status changes, good news and bad news to all levels of staff across different departments. They also need to be able to distinguish who needs to know what, when they need to know it and how that information will be delivered.” - Nandi Hayes
-
 CIO is a new website for me, but I’ve already spent an hour perusing their articles on project management. [Check it out.](https://www.cio.com/category/project-management/)
