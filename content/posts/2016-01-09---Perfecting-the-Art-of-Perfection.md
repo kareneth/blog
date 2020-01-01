@@ -16,6 +16,7 @@ tags:
   - problem solver
   - article review
   - self improvement
+  - project management
 ---
 I enjoyed this article, [7 Must-Have Project Management Skills for IT Pros](https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.cio.com%2Farticle%2F2389129%2Fproject-management%2F7-must-have-project-management-skills-for-it-pros.html&t=YzkxNTgyMjVmODU2N2YyYTJkZWZkNDNhNzNlZDU3NzRhNzM2ZjFiNCxqNUVHc1B5ZA%3D%3D&b=t%3Ada6eij_ZAnVbbTPXeKJrjw&p=https%3A%2F%2Fpmokaren.tumblr.com%2Fpost%2F126796731588%2F7-must-have-project-management-skills-for-it-pros&m=1), from Jennifer Lonoff Schiff, published in CIO. I agree that an effective PM should have these skills:
 
