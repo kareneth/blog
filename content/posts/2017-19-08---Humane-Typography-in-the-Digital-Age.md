@@ -7,6 +7,7 @@ date: 2015-08-17T22:40:00.000Z
 description: Why hire a project manager? It's quite simple really.
 category: Project Management
 tags:
+  - segue technologies
   - role
   - responsibility
   - reliable
