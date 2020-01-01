@@ -4,9 +4,7 @@ title: Every Time A Person Leaves or Joins a Team
 slug: every-time-a-person-leaves-or-joins-a-team
 draft: false
 date: 2018-05-07T22:12:00.000Z
-description: >-
-  Every time a person leaves or joins a team, the old team is gone and there is
-  a new team.
+description: I enjoyed this tweet from Bernd Schiffer.
 category: Project Management
 tags:
   - team dynamics
