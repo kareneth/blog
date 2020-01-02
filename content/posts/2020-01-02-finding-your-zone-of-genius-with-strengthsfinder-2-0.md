@@ -28,6 +28,7 @@ tags:
   - empathy
   - developer
   - career
+  - chinese
 ---
 There's the [original book](https://hendricks.com/amazon/) by Gay Hendricks, and by now several articles describing the 4 zones of function: zone of incompetence, zone of competence, zone of excellence, and  zone of genius. However, I still like [Alex MacCaw's take](https://blog.alexmaccaw.com/zone-of-genius) on it the best. He says,
 
