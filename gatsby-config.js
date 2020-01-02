@@ -204,5 +204,18 @@ module.exports = {
     },
     'gatsby-plugin-flow',
     'gatsby-plugin-optimize-svgs',
+    {
+      resolve: 'gatsby-plugin-mailchimp',
+      options: {
+        endpoint: 'https://na.us12.list-manage.com/subscribe/post?u=8af881cad269d89ad864244e2&amp;id=2d1a74e0fe'
+      }
+    },
+    {
+      resolve: `gatsby-plugin-page-creator`,
+      options: {
+        path: `${__dirname}/content`,
+        ignore: ['*.md']
+      }
+    }
   ]
 };

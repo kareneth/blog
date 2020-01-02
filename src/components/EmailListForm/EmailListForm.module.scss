@@ -1,0 +1,51 @@
+.EmailListForm {
+  display: flex;
+  flex-direction: column;
+
+  background: white;
+  color: #2a2a2a;
+
+  padding: 2rem;
+
+  h1{
+    font-size: 2.5rem;
+    font-weight: 600;
+    line-height: 3.25rem;
+    margin-top: 0;
+    margin-bottom: 2.35625rem;
+  }
+
+  .Wrapper {
+    display: flex;
+    flex-direction: row;
+  }
+
+  input {
+    color: black;
+    width: 80%;
+    background-image: none !important;
+  }
+
+  button,
+  input {
+    padding: .75rem 1.5rem;
+  }
+
+  button {
+    display: inline-block;
+
+    border: none;
+    background-image: none;
+    background-color: orange;
+    color: white;
+    font-size: 1rem;
+
+    letter-spacing: 0px;
+    transition: all 0.1s linear;
+
+    &:hover {
+      cursor: pointer;
+      background: darken(orange, 15%);
+    }
+  }
+}
