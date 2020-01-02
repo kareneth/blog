@@ -2,15 +2,17 @@
   display: flex;
   flex-direction: column;
 
-  background: #f2f2f2;
+  background: white;
   color: #2a2a2a;
 
-  font-family: -apple-system, Helvetica, Arial, sans-serif;
   padding: 2rem;
 
-  h2 {
+  h1{
+    font-size: 2.5rem;
+    font-weight: 600;
+    line-height: 3.25rem;
     margin-top: 0;
-    margin-bottom: 1rem;
+    margin-bottom: 2.35625rem;
   }
 
   .Wrapper {
@@ -19,14 +21,14 @@
   }
 
   input {
-    color: #2a2a2a;
-    width: 100%;
-    border: none;
+    color: black;
+    width: 80%;
+    background-image: none !important;
   }
 
   button,
   input {
-    padding: 1rem 1.5rem;
+    padding: .75rem 1.5rem;
   }
 
   button {
@@ -34,15 +36,16 @@
 
     border: none;
     background-image: none;
-    background-color: #DD0505;
+    background-color: orange;
     color: white;
+    font-size: 1rem;
 
-    letter-spacing: 1px;
+    letter-spacing: 0px;
     transition: all 0.1s linear;
 
     &:hover {
       cursor: pointer;
-      background: darken(#DD0505, 15%);
+      background: darken(orange, 15%);
     }
   }
 }
