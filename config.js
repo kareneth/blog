@@ -27,13 +27,13 @@ module.exports = {
   author: {
     name: 'Karen Shih',
     photo: '/karen.jpg',
-    bio: 'I’m a project manager based in Atlanta, although my heart belongs in Taiwan.',
+    bio: 'Hiya! I’m a project manager living in Atlanta, although my heart belongs in Taiwan.',
     contacts: {
       email: '',
       facebook: '',
       telegram: '',
       twitter: '',
-      github: '',
+      github: 'kareneth',
       rss: '',
       vkontakte: '',
       linkedin: 'karengshih',
