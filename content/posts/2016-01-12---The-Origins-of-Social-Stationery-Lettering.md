@@ -3,7 +3,7 @@ template: post
 title: Becoming by Michelle Obama
 slug: becoming-by-michelle-obama
 draft: false
-date: '2016-12-01T22:40:32.169Z'
+date: 2018-12-01T22:40:00.000Z
 description: >-
   Becoming is Michelle Obama’s memoir, published in 2018. Here's a list of my
   favorite quotes. 
