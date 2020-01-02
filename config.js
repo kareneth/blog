@@ -43,7 +43,7 @@ module.exports = {
       weibo: '',
       codepen: '',
       youtube: '',
-      goodreads: '1240186-karen',  
+      goodreads: '1240186-karen',
       yelp: 'kareneth',
     }
   }
