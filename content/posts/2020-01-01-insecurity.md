@@ -1,7 +1,7 @@
 ---
 template: post
-title: Insecurity
-slug: insecurity
+title: Can Insecurity Be Good?
+slug: can-insecurity-be-good
 draft: false
 date: 2019-04-02T01:36:00.000Z
 description: >-
