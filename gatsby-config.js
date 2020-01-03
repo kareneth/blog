@@ -207,7 +207,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-mailchimp',
       options: {
-        endpoint: 'https://na.us12.list-manage.com/subscribe/post?u=8af881cad269d89ad864244e2&amp;id=2d1a74e0fe'
+        endpoint: 'https://karengshih.us12.list-manage.com/subscribe/post?u=8af881cad269d89ad864244e2&amp;id=a66e43806c'
       }
     },
     {
