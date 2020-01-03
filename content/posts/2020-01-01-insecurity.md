@@ -21,7 +21,7 @@ tags:
 
 https://twitter.com/karen_meep/status/1111123109510344706
 
-While I don't feel [imposter syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome) as much anymore, I do find it hard to speak up. Sometimes it's a matter of finding an opening to interject, while other times it's because I'm still formulating my thoughts. Regardless, each lost moment can add to my insecurity. I like how this quote turns another thing I can feel guilty about, into something encouraging.
+While I don't feel [imposter syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome) as much anymore, I do find it hard to speak up. Sometimes it's a matter of finding an opening to interject, while other times it's because I'm still formulating my thoughts. Regardless, each lost moment can add to my insecurity. I like how this quote turns another thing I can feel guilty about into something encouraging.
 
 Mike Monteiro in [Ruined by Design](https://www.ruinedby.design) also helped me realize the importance of my own voice and perspective.
 
