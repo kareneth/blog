@@ -1,7 +1,7 @@
 ---
 template: post
-title: Becoming by Michelle Obama
-slug: becoming-by-michelle-obama
+title: Book Review of Becoming by Michelle Obama
+slug: book-review-of-becoming-by-michelle-obama
 draft: false
 date: 2018-12-01T22:40:00.000Z
 description: >-
