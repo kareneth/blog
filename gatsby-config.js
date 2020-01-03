@@ -218,7 +218,7 @@ module.exports = {
         path: `${__dirname}/content`,
         ignore: ['*.md']
       }
-    }
+    },
     `gatsby-plugin-feed`,
   ]
 };
