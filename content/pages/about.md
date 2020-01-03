@@ -8,4 +8,8 @@ I enjoy buying anything that'll keep me organized, traveling to anyplace with a 
 
 If you stumbled here from [karensbetterthan.danielgempesaw.com](https://karensbetterthan.danielgempesaw.com/), then you’ll know I’m also married to my best friend, Dan.
 
+
+
+PS I'll also talk about my journey in learning Chinese and include word breakdowns from my [Pleco app](https://www.pleco.com/). Here's the meaning of my name, Zhiyi. 
+
 ![Zhiyi. My name means wisdom and joyful.](/media/shi1zhi4yi2.png "Zhiyi. My name means wisdom and joyful.")
