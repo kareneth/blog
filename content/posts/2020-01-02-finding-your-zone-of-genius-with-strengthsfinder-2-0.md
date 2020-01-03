@@ -29,6 +29,7 @@ tags:
   - developer
   - career
   - chinese
+  - satisfaction
 ---
 There's the [original book](https://hendricks.com/amazon/) by Gay Hendricks, and by now several articles describing the 4 zones of function: zone of incompetence, zone of competence, zone of excellence, and  zone of genius. However, I still like [Alex MacCaw's take](https://blog.alexmaccaw.com/zone-of-genius) on it the best. He says,
 
@@ -38,9 +39,9 @@ There's the [original book](https://hendricks.com/amazon/) by Gay Hendricks, and
 > * A talent is an innate ability that can’t be taught. For example, a love of numbers.
 > * A skill is a competency that can be taught. For example, knowing Excel back to front.
 
-Zone of Excellence occurs when your talent and skills line up. It makes sense, you're in the top of your field or workplace, and the work comes naturally. However, it doesn't energize you, after all, it's not a strength. So eventually, you may find yourself burnt out.
+**Zone of Excellence occurs when your talent and skills line up.** It makes sense, you're in the top of your field or workplace and the work comes naturally. However, it doesn't energize you, after all, it's not a strength. So eventually you may find yourself burned out.
 
-I know I've personally felt this way before. I could do good work practically in my sleep, but I felt no joy. No drive. And the days went by so slowly. It was confusing because I'm naturally a cheerful person, so I'd still be happy but it was hard to distinguish that from the lingering, draining feeling I was left with at day's end. Just because you're good at it doesn't mean you want to do it for the rest of your life.  
+I know I've personally felt this way before. I could do good work practically in my sleep, but I felt no joy, no drive. And the days went by so slowly. It was confusing because I'm naturally a cheerful person, so I'd still be happy but it was hard to distinguish that from the lingering, draining feeling I was left with at day's end. Just because you're good at it doesn't mean you want to do it for the rest of your life.  
 
 That's where the Zone of Genius comes into play and what makes this framework so appealing to me.
 
@@ -52,11 +53,11 @@ In terms of finding your strengths, well you can always talk with close family a
 
 You take a <45 min. assessment to discover which of the 34 themes are your top five strengths and weaknesses. It's based on the premise that we shouldn't spend as much time improving our weaknesses because even after much effort, we'd probably only even out compared to others. Instead, we should focus our efforts on improving our strengths so that we can truly stand out among the crowd.
 
-In Chinese, we'd say **鶴立雞群(he4li4-ji1qun2).** It means to stand far above everybody else. It literally means to be a crane standing among chickens. 
+In Chinese, we'd say **鶴立雞群(he4li4-ji1qun2).** It literally means to be a crane standing among chickens. 
 
 ![鶴立雞群(he4li4-ji1qun2)](/media/2020-01-01_he4li4ji1qun2.png "鶴立雞群(he4li4-ji1qun2). It means to stand far above everybody else. It literally means to be a crane standing among chickens.")
 
-While I was skeptical at first, it actually helped me a lot in my career journey once I saw what my strengths were.   
+While I was skeptical at first, it actually helped me a lot in my career journey once I saw what my strengths were. According to StrengthsFinder, they are:  
 
 1. Learner - [read more](https://news.gallup.com/businessjournal/694/learner.aspx)
 2. Responsibility - [read more](https://news.gallup.com/businessjournal/706/responsibility.aspx)
