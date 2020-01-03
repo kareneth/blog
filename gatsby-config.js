@@ -12,7 +12,9 @@ module.exports = {
     copyright: siteConfig.copyright,
     disqusShortname: siteConfig.disqusShortname,
     menu: siteConfig.menu,
-    author: siteConfig.author
+    author: siteConfig.author,
+    siteUrl: 'https://karengshih.com',
+    description: 'Karen Shih\'s Blog.',
   },
   plugins: [
     {
@@ -216,6 +218,7 @@ module.exports = {
         path: `${__dirname}/content`,
         ignore: ['*.md']
       }
-    }
+    },
+    `gatsby-plugin-feed`,
   ]
 };
