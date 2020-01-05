@@ -6,7 +6,7 @@ module.exports = {
   title: 'Karen Shih',
   subtitle: 'Karen loves Dan!',
   copyright: '© 2020 All rights reserved.',
-  disqusShortname: '',
+  disqusShortname: 'www-karengshih-com',
   postsPerPage: 5,
   googleAnalyticsId: 'UA-155139827-1',
   useKatex: false,
@@ -33,7 +33,7 @@ module.exports = {
     photo: '/karen.jpg',
     bio: 'Hiya! I’m a project manager living in Atlanta, although my heart belongs in Taiwan.',
     contacts: {
-      email: '',
+      email: 'hello@karengshih.com',
       facebook: '',
       telegram: '',
       twitter: '',
@@ -48,7 +48,7 @@ module.exports = {
       codepen: '',
       youtube: '',
       goodreads: '1240186-karen',
-      yelp: 'kareneth',
+      yelp: '',
     }
   }
 };
