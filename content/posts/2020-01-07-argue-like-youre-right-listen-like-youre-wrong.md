@@ -2,7 +2,7 @@
 template: post
 title: 'Argue like you''re right, listen like you''re wrong.'
 slug: argue-like-youre-right-listen-like-youre-wrong
-draft: true
+draft: false
 date: 2020-01-07T04:31:06.547Z
 description: >-
   I was flipping through my conference notes from Agile2018 and stumbled upon
