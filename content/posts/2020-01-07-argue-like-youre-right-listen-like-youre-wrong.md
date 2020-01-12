@@ -7,7 +7,7 @@ date: 2020-01-07T04:31:06.547Z
 description: >-
   I was flipping through my conference notes from Agile2018 and stumbled upon
   this quote I must have heard in a session. It resonated with me.
-category: project management
+category: Project Management
 tags:
   - listen
   - perspective
