@@ -47,6 +47,9 @@ const getIcon = (name: string) => {
     case 'youtube':
       icon = ICONS.YOUTUBE;
       break;
+    case 'goodreads':
+      icon = ICONS.GOODREADS;
+      break;
     default:
       icon = {};
       break;
