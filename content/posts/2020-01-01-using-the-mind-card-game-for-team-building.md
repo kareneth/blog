@@ -1,6 +1,6 @@
 ---
 template: post
-title: Using The Mind Card Game For Team Building
+title: Using the Mind Card Game for Team Building
 slug: using-the-mind-card-game-for-team-building
 draft: false
 date: 2020-01-01T04:26:00.000Z
