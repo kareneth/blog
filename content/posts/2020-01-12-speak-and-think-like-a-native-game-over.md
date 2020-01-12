@@ -1,6 +1,6 @@
 ---
 template: post
-title: 'Speak And Think Like A Native: Game Over'
+title: 'Speak and Think Like a Native: Game Over'
 slug: speak-and-think-like-a-native-game-over
 draft: false
 date: 2020-01-12T04:29:10.844Z
