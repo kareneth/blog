@@ -1,6 +1,6 @@
 ---
 template: post
-title: Every Time A Person Leaves or Joins a Team
+title: Every Time a Person Leaves or Joins a Team
 slug: every-time-a-person-leaves-or-joins-a-team
 draft: false
 date: 2018-05-07T22:12:00.000Z
@@ -18,8 +18,6 @@ tags:
 ![https://twitter.com/berndschiffer/status/992045994941464578](/media/2018-05-07-bernd-schiffer-team.png "Bernd Schiffer, https://twitter.com/berndschiffer/status/992045994941464578")
 
 <https://twitter.com/berndschiffer/status/992045994941464578>
-
-
 
 All of my agile teams have team or working agreements in place. I find them useful for setting expectations and holding the teams accountable. But as Bernd astutely observes, it's not a set it and walk away deal. Because as the team shifts, so should the team agreement.   
 
