@@ -1,6 +1,6 @@
 ---
 template: post
-title: 'Argue like you''re right, listen like you''re wrong.'
+title: 'Argue Like You''re Right, Listen Like You''re Wrong.'
 slug: argue-like-youre-right-listen-like-youre-wrong
 draft: false
 date: 2020-01-07T04:31:06.547Z
