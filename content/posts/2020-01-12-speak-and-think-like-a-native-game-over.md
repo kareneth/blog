@@ -9,7 +9,7 @@ description: >-
   noticed after a while that something feels slightly off. It wasn't really my
   American accent, although that certainly didn't help. It took me a while to
   realize it was something much more fundamental. 
-category: chinese
+category: Chinese
 tags:
   - chinese
   - native
