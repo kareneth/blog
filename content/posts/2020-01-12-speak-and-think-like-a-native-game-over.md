@@ -16,19 +16,19 @@ tags:
   - stop playing
   - natural
 ---
-The reason my Chinese sounded different from native speakers was because I was translating my words. I would hear a question in Chinese, think of a response in English, convert that to Chinese, and then respond back in Chinese. 
+The reason my Chinese sounds different from native speakers is because I'm translating my words. I hear a question in Chinese, think of a response in English, convert that to Chinese, and then respond back in Chinese. 
 
-It was ... adequate. It got the message across, we could carry a conversation, but it *simply did not sound natural*. And of course my family had just gotten used to it over time. 
+It's ... adequate. It gets the message across, we can carry a conversation, but it *simply doesn't sound natural*. And of course my family had just gotten used to it over time. 
 
-I first realized it with Dan. Occasionally he would respond to me in Chinese, but often without context and just stringing together a verb and noun. I get it, I can't be bothered with grammar most times either, but it made it really hard to understand him. When I did understand, it just felt awkward. I couldn't put my finger on why for the longest time, but more importantly, I didn't know how to correct it.
+I first realized it with Dan. Occasionally he would respond to me in Chinese, but often without context and just stringing together verbs and nouns. I get it, I can't be bothered with grammar most times either, but it made it really hard to understand him. When I did understand, it just felt awkward. I couldn't put my finger on why for the longest time, but more importantly, I didn't know how to correct it.
 
-Once I realized that, it was like night and day. 
+Once I realized it was because we were both translating English to Chinese, it was like night and day. 
 
-I started paying attention to native speakers at the food court, stores, tv shows, anywhere I could casually eavesdrop and get a feel for it. It wasn't hard to spot out because I could naturally understand it, *I just wasn't used to thinking like that.* I treat it as another memorization exercise, but with even more dedication since I've seen how applicable it is. 
+I started paying attention to native speakers at the food court, stores, tv shows, anywhere I could casually (and politely?) eavesdrop. It wasn't hard to spot out because I could naturally understand it, *I just wasn't used to thinking like that.* It became another memorization exercise, where I would jot down natural sounding phrases and responses. 
 
 I'm hoping to start a new series, speak and think like a native. The intention will be to share my journey and findings of how native Chinese speakers communicate.
 
-It's a bit laughable that a non-native speaker is writing this, but I think that's where I can spot differences that native speaker wouldn't. I'm relying a lot on the questions I get from Dan, as well as the times my family and Chinese teacher correct me.
+It's a bit laughable that a non-native speaker is writing this, but I think that's where I can spot differences and explain it a bit more, something a native speaker might not even realize they're doing. I'm relying a lot on the questions I get from Dan, as well as my own mistakes. Thankfully my Chinese teacher is very patient.
 
 So without further ado.
 
@@ -42,7 +42,7 @@ Bad, Translated Chinese:
 
 玩完了 (wan2 wan2 le5), which roughly translated to "game over" or "done playing." I'm not trying too hard here, because well, first off don't learn this, and I'm pretty sure he said that because he thought it was fun to say "wan2wan2". He's like that. 
 
-See what I mean about the short noun and verb pairings. And I understood him, but I think my face ended up like a cross between 😯and  🤨...which probably meant I looked like 🤭. Not the most encouraging wife.
+See what I mean about the short noun and verb pairings. Oh, and I understood him completely and I hope my face ended up like a cross between 😯and  🤨...which probably meant I looked like 🤭or even 😬. 
 
 Good, Native Chinese:
 
@@ -56,8 +56,8 @@ Since these are phrases, that don't come out cleanly in my dictionary. However, 
 
 ![休息一下(xiu1xi5 yi1xia4), which means take a break.](/media/2020-01-11_xiu1xi5yi1xia4.png "休息一下(xiu1xi5 yi1xia4), which means take a break.")
 
-Of course the **重點(zhong4dian3)**, or important point, is **不玩了(bu5 wan2 le5)**. But unlike in English, where "Let's stop playing" can seem fine, hearing just that in Chinese just felt abrupt. It feels more natural to add a bit of context, like we've been playing for a while, I'm tired, or let's take a break.
+Of course the **重點(zhong4dian3)**, or important point, is **不玩了(bu5 wan2 le5)**. But unlike in English, where "Let's stop playing" can seem fine, hearing just that in Chinese felt abrupt. It feels more natural to add a bit of context, like we've been playing for a while, I'm tired, or let's take a break.
 
 ![重點 (zhong4dian3), which means important point.](/media/2020-01-11_zhong4dian3.png "重點 (zhong4dian3), which means important point.")
 
-Let me know what you think, or if there are any other responses you'd like me to inquire after.
+Let me know what you think, or if there are any other questions I can dig into.
