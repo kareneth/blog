@@ -14,7 +14,6 @@ const useSiteMetadata = () => {
               contacts {
                 facebook
                 linkedin
-                github
                 twitter
                 telegram
                 instagram
@@ -26,6 +25,8 @@ const useSiteMetadata = () => {
                 weibo
                 codepen
                 youtube
+                goodreads
+                github
               }
             }
             menu {

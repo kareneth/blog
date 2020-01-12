@@ -37,7 +37,6 @@ module.exports = {
       facebook: '',
       telegram: '',
       twitter: '',
-      github: 'kareneth',
       rss: '',
       vkontakte: '',
       linkedin: 'karengshih',
@@ -49,6 +48,7 @@ module.exports = {
       youtube: '',
       goodreads: '1240186-karen',
       yelp: '',
+      github: 'kareneth'
     }
   }
 };
