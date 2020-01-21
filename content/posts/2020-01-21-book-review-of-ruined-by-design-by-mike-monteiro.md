@@ -6,8 +6,8 @@ draft: false
 date: 2020-01-21T04:24:21.152Z
 description: >-
   Ruined by Design is Mike Monteiro's book about design ethics. It's provocative
-  and full of outbursts. It's well-researched with plenty of relevant examples
-  of today's US tech landscape that hits close to home. Here's a list of my
+  and full of outrage. It's well-researched with plenty of relevant examples of
+  today's US tech landscape that hits close to home. Here's a list of my
   favorite quotes.
 category: Book Review
 tags:
@@ -38,13 +38,13 @@ but did not appreciate:
 
 * constant swearing (feels like lazy writing, albeit sometimes entertaining)
 
-
-
 Here's a list of my favorite quotes:
 
-On p42
+On p42 (re: privilege)
 
-> "born on third base and think they hit a triple." -Ann Richard
+> "born on third base and think they hit a triple." 
+>
+> \-Ann Richard
 
 and on p45
 
@@ -66,13 +66,15 @@ and on p66
 
 > "The trick to not being stressed out about getting fired is to expect it every day. Work toward it. Be willing to say the thing that might get you fired, because if you're not, then you're holding back. Otherwise, you're giving the answer you think people want to hear, or the answer that you think saves your skin. That's not the job. Your job is to design things the right way, the ethical way, even if it gets you fired."
 
-and on p72
+and on p72 (re: importance of diverse viewpoints esp. in hiring)
 
-> "You will design things that fit within your own experiences." (important to diverse hirings)
+> "You will design things that fit within your own experiences."
 
 and on p74
 
-> "Why teach people to think outside the box when you can hire people outside the box." -Tea Uglow (Google Sydney)
+> "Why teach people to think outside the box when you can hire people outside the box." 
+>
+> \-Tea Uglow (Google Sydney)
 
 and on p74
 
@@ -82,11 +84,15 @@ and on p76
 
 > "A few years ago I was on a panel for MICWIC (Michigan Women in Computing), and the thing that struck me is how almost every single woman who spoke felt compelled to state that they "didn't hate men," as a measure of self protection, or say something that in some way excused behavior (it was the times, etc.). 
 >
-> And some of these people were saying that they stayed in tech and engineering DESPITE feeling like they were unwanted the whole time, but that in some cases, they would never ask their other, bright, amazing female colleagues to come work with them, because they knew it was asking a lot..." -Ani King (editor of Syntax & Salt magazine)
+> And some of these people were saying that they stayed in tech and engineering DESPITE feeling like they were unwanted the whole time, but that in some cases, they would never ask their other, bright, amazing female colleagues to come work with them, because they knew it was asking a lot..." 
+>
+> \-Ani King (editor of Syntax & Salt magazine)
 
 and on p77
 
-> "If you are white in a white supremacist society, you are racist. If you are male in a patriarchy, you are sexist." -Ijeoma Oluo in So You Want To Talk About Race
+> "If you are white in a white supremacist society, you are racist. If you are male in a patriarchy, you are sexist." 
+>
+> \-Ijeoma Oluo in So You Want To Talk About Race
 
 and on p77
 
@@ -194,7 +200,9 @@ and on p
 
 > "What's the most confident statement that can come out of your mouth?" 
 >
-> "I don't know" \[...] Also, you need to follow that up with something like, "I'm excited to find out" or, "Give me until the end of the day/week to look into it," and make sure that you do."
+> "I don't know" \[...] 
+>
+> Also, you need to follow that up with something like, "I'm excited to find out" or, "Give me until the end of the day/week to look into it," and make sure that you do."
 
 and on p158
 
@@ -212,15 +220,11 @@ and on p194
 
 > "Licensing and regulation rarely eliminate a problem, but they do minimize it, and add accountability to the equation."
 
-
-
-
-
 Finally, here's a list of recommended readings that I also want to check out or re-read:
 
-* Super Pumped: The Battle for Uber By Mike Isaac
-* Brotopia: Breaking Up the Boys' Club of Silicon Valley by Emily Chang (about 10% through and also very good)
-* Broad Band by Claire L. Evans (just checked out from the library!)
-* Twitter and Tear Gas: The Power and Fragility of Networked Protest by Zeynep Tufekci
-* The Jungle by Upton Sinclair
+* [Super Pumped: The Battle for Uber By Mike Isaac](https://www.mike-isaac.com/)
+* [Brotopia: Breaking Up the Boys' Club of Silicon Valley by Emily Chang](http://www.brotopiabook.com/) (about 10% through and also very good)
+* [Broad Band by Claire L. Evans](https://clairelevans.com/) (just checked out from the library!)
+* [Twitter and Tear Gas: The Power and Fragility of Networked Protest by Zeynep Tufekci](https://www.twitterandteargas.org/)
+* [The Jungle by Upton Sinclair](https://www.goodreads.com/book/show/41681.The_Jungle)
 * [Susan Fowler's essay of her tenure at Uber](https://www.susanjfowler.com/blog/2017/2/19/reflecting-on-one-very-strange-year-at-uber)
