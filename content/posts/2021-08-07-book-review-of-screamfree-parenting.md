@@ -4,7 +4,11 @@ title: Book Review of Screamfree Parenting
 slug: book-review-of-screamfree-parenting
 draft: true
 date: 2021-08-07T02:51:48.629Z
-description: Book review of Screamfree Parenting
+description: >-
+  Screamfree Parenting is Hal Runkel's approach to parenting. He says that
+  "parenting is not about kids, it's about parents. If you're not in control,
+  then you cannot be in charge. What every kid really needs are parents who are
+  able to keep their cool no matter what." Read more...
 category: BOOK REVIEW
 tags:
   - hal runkel
@@ -59,3 +63,23 @@ and on p118
 > > *"They're finicky, you know." we warn.*
 > 
 > *This list may include sleeping habits, the order of bedtime rituals, and an extensive list of their favorite foods. When they come home saying all went well and they even ate green beans for dinner, we find ourselves putting them back into place. "But you don't like green beans!" As if their palates are already determined; as if we are the gatekeepers to any new preferences.*
+
+and on p120
+> *What we do with any repeated label, no matter how positive, is to eliminate our children's freedom to be evolving, developing human beings.*
+
+and on p121
+> *What we must learn as parents is to fight for our children's right to evolve. We must fight for each child's right to create his or her own uniqueness in the world. What a gift we give to our children by refusing to stunt their personal development by foistering some "personality" on them.*
+
+and on p122 (re: success strategies for removing labels)
+> * Remove "always, never, all the time, constantly"
+> * Use "can be"
+
+and on p123
+> *Despite limitations and mistakes in the past, we must continually fight for our children's best character to evolve, fight for their right to always, always change at a moment's notice.*
+
+and on p137
+> *There is a personal side to parenting as well as a business side.*
+> * Under the personal heading fall such elements as fun, togetherness, nurturing touch, and play.
+> * Under the [business] side fall the basic operations of the family: setting schedules and rules, enforcing consequences, establishing curfews and bedtimes, and providing the basics of food, clothing, and shelter. And don't forget about supervising schoolwork and teaching how to close those toilets."
+
+and on p 
