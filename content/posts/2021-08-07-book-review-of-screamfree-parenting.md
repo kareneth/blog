@@ -5451,7 +5451,18 @@ And on p71
 > * He welcomes criticism as. feedback, but does not automatically accept it as truth.
 > * She takes care of. herself in order to be available to others without needing them to take care of her.
 
----
+And on p77
+> *Each of us has a space we can call our own. In that space, we have the freedom to explore, to discoverpossibilities and potential, to make mistakes and learn from them. In that space, we can be comfortable and learn to struggle through out discomfort. We don't have to put on a mask or pretend. We can be ourselves with no fear or shame.*
+
+And on p79
+> *Without space to make their own istakes, our kids live only borrowed lives.*
+
+And on p105
+> *Our goal is not to stifle our children's expressions of will, desire, and emotion. Our goal is to help steer those expressios along the most productive paths.*
+
+And on p107
+>*Before and after engaging in a match, opponents bow to each other. Bowing is an expression of gratitude and respect. In effect, you are thanking your opponent for giving you the opportunity to improve yourself. -Dr. Kano*
+
 
 And on p114
 
