@@ -5435,7 +5435,10 @@ And on p68
 > *When criticized for urging readers to concentrate on their deepest longings for the future, C. S. Lewis came back with a quick but profound retort. He said not to think of it as. wishful thinking, but rather "thoughtful wishing."*
 
 And on p68
-> 
+> *It is our child's job to eventually replace us. - Jerry Seinfeld*
+
+And on p68
+> *It is our job to both train our children for that job and get out of the way as they learn to do it.*
 
 And on p71
 > Here are the attributes of a self-directed adult:
