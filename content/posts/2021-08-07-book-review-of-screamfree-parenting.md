@@ -5428,7 +5428,18 @@ It made me reflect on how I was raised, and how a lot of how that - for better o
 
 Here's a list of my favorite quotes:
 
-On p
+On p27
+> *We continually surrender control over our emotinal responses to those around us.... Your emotional responses are. up to you. You always have a choice.*
+
+And on p68
+> *When criticized for urging readers to concentrate on their deepest longings for the future, C. S. Lewis came back with a quick but profound retort. He said not to think of it as. wishful thinking, but rather "thoughtful wishing."*
+
+And on p71
+> Here are the attributes of a self-directed adult:
+> * He knows and pursues what he wants in life.
+> * She gladly seeks counsel from others, but ultimately makes up her own mind.
+> * They demonstrate integrity, a consistency of their beliefs, desires, words, and actions.
+> *  
 
 ---
 
