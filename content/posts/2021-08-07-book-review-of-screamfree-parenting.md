@@ -2,7 +2,7 @@
 template: post
 title: Book Review of Screamfree Parenting
 slug: book-review-of-screamfree-parenting
-draft: true
+draft: false
 date: 2021-08-07T02:51:48.629Z
 description: >-
   Screamfree Parenting is Hal Runkel's approach to parenting. He says that
