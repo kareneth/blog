@@ -8,8 +8,8 @@ description: >-
   Screamfree Parenting is Hal Runkel's approach to parenting. He says that
   "parenting is not about kids, it's about parents. If you're not in control,
   then you cannot be in charge. What every kid really needs are parents who are
-  able to keep their cool no matter what." Read more...
-category: BOOK REVIEW
+  able to keep their cool no matter what." 
+category: Book Review
 tags:
   - hal runkel
   - book review
@@ -77,9 +77,9 @@ And on p114
 
 and on p115
 
-"The tricky part about labeling is that often these labels seem accurate. After all, they don't simply arrive out of thin air. Labels are typically based on some observable trait or behavioral pattern.
-
-But hear this: You are not a prophet. Most likely you are also not a biogeneticist. You cannot predict how your children will turn out based on your own intuition or on your family's physical, mental, and emotional characteristics."
+> "The tricky part about labeling is that often these labels seem accurate. After all, they don't simply arrive out of thin air. Labels are typically based on some observable trait or behavioral pattern.
+>
+> But hear this: You are not a prophet. Most likely you are also not a biogeneticist. You cannot predict how your children will turn out based on your own intuition or on your family's physical, mental, and emotional characteristics."
 
 and on p116
 
