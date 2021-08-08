@@ -5434,12 +5434,19 @@ On p27
 And on p68
 > *When criticized for urging readers to concentrate on their deepest longings for the future, C. S. Lewis came back with a quick but profound retort. He said not to think of it as. wishful thinking, but rather "thoughtful wishing."*
 
+And on p68
+> 
+
 And on p71
 > Here are the attributes of a self-directed adult:
 > * He knows and pursues what he wants in life.
 > * She gladly seeks counsel from others, but ultimately makes up her own mind.
 > * They demonstrate integrity, a consistency of their beliefs, desires, words, and actions.
-> *  
+> * She holds people accountable for their actions (including her parents), but does not blame  others for her own problems. 
+> * He does not let others blame him for their problems.
+> * They gladly and quickly take responsibility for their decisions.
+> * He welcomes criticism as. feedback, but does not automatically accept it as truth.
+> * She takes care of. herself in order to be available to others without needing them to take care of her.
 
 ---
 
