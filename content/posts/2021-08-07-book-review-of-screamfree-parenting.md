@@ -22,13 +22,13 @@ Screamfree Parenting is Hal Runkel's approach to parenting. He says that "parent
 
 I found myself agreeing with a lot of it.
 
-It made me reflect on how I was raised, and how a lot of how that - for better or for worse - has shaped me into who I am today. And how that in turn, didn't have to reflect how I raise my Little Duck. One particularly poignant chapter asked me to describe my ideal relationship with her when she was 25. Wow, what a jump. And from that, to work backwards into how I raise them today. Ah, well that makes sense. A lot of it even applies to how I want to lead my work team today.
+It made me reflect on how I was raised, and how a lot of how that - for better or for worse - has shaped me into who I am today. And how that in turn didn't have to reflect how I choose to raise my Little Duck. One particularly poignant chapter asked me to describe my ideal relationship with her when she was 25. Wow, what a jump. And from that, to work backwards into how I raise them today. Ah, well that makes sense. A lot of it even applies to how I want to lead my work team today in terms of empowering and supporting them into being the best version of themselves.
 
 Here's a list of my favorite quotes:
 
 On p27
 
-> *We continually surrender control over our emotinal responses to those around us.... Your emotional responses are. up to you. You always have a choice.*
+> *We continually surrender control over our emotional responses to those around us.... Your emotional responses are. up to you. You always have a choice.*
 
 And on p68
 
@@ -57,15 +57,15 @@ Here are the attributes of a self-directed adult:
 
 And on p77
 
-> *Each of us has a space we can call our own. In that space, we have the freedom to explore, to discoverpossibilities and potential, to make mistakes and learn from them. In that space, we can be comfortable and learn to struggle through out discomfort. We don't have to put on a mask or pretend. We can be ourselves with no fear or shame.*
+> *Each of us has a space we can call our own. In that space, we have the freedom to explore, to discover possibilities and potential, to make mistakes and learn from them. In that space, we can be comfortable and learn to struggle through out discomfort. We don't have to put on a mask or pretend. We can be ourselves with no fear or shame.*
 
 And on p79
 
-> *Without space to make their own istakes, our kids live only borrowed lives.*
+> *Without space to make their own mistakes, our kids live only borrowed lives.*
 
 And on p105
 
-> *Our goal is not to stifle our children's expressions of will, desire, and emotion. Our goal is to help steer those expressios along the most productive paths.*
+> *Our goal is not to stifle our children's expressions of will, desire, and emotion. Our goal is to help steer those expressions along the most productive paths.*
 
 And on p107
 
@@ -79,7 +79,7 @@ and on p115
 
 > "The tricky part about labeling is that often these labels seem accurate. After all, they don't simply arrive out of thin air. Labels are typically based on some observable trait or behavioral pattern.
 >
-> But hear this: You are not a prophet. Most likely you are also not a biogeneticist. You cannot predict how your children will turn out based on your own intuition or on your family's physical, mental, and emotional characteristics."
+> But hear this: You are not a prophet. Most likely you are also not a bio-geneticist. You cannot predict how your children will turn out based on your own intuition or on your family's physical, mental, and emotional characteristics."
 
 and on p116
 
@@ -129,7 +129,7 @@ There is a personal side to parenting as well as a business side.
 
 and on p144
 
-> *Now, you must understand that children don't have a firm grap on where their space ends and yours begins.*
+> *Now, you must understand that children don't have a firm grasp on where their space ends and yours begins.*
 
 and on p145
 
